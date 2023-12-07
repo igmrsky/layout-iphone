@@ -338,7 +338,7 @@ ul {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        transform: translateY(100%);
+        transform: translateY(-100%);
         transition: .3s ease;
     }
     .menu-open .menu {
